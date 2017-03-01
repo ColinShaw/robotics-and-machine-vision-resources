@@ -16,4 +16,4 @@ are also articles and useful links.
 ## Localization and Mapping
 
   * __Probabilistic Robotics__   
-    _Sebastian Thrun, Wolfram Burgard and Dieter Fox
+    _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
