@@ -8,7 +8,7 @@ are also articles and useful links.
 
 ## Background
 
-  * __Introduction to Mathematical Statistics__
+  * __Introduction to Mathematical Statistics__     
     _Robert Hogg, Joeseph McKean and Allen Craig_
 
 
