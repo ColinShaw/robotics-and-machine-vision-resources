@@ -1,9 +1,8 @@
-# Robotics Learning Resources
+# Robotics And Machine Vision Resources
 
-This is a curated collection of resources related to robotics.  All titles 
-are titles I own and would encourage as useful in the field.  Since robotics 
-is a wide field, there are a wide range of categories represented here. There 
-are also articles and useful links.
+This is a curated collection of resources related to robotics and machine
+vision.  All titles are titles I own and would encourage as useful in the 
+field.  There are also articles and useful links.
 
 
 ## Background
