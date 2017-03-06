@@ -9,6 +9,9 @@ field.  There are also articles and useful links.
 
   * __Introduction to Mathematical Statistics__     
     _Robert Hogg, Joeseph McKean and Allen Craig_
+    
+  * __Numerical Linear Algebra and Applications__     
+    _Biswa Nath Datta_
 
 
 
