@@ -35,3 +35,6 @@ field.  There are also articles and useful links.
 
 
 ## Interesting Online Projects and Tools
+
+  * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+
