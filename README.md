@@ -12,10 +12,17 @@ field.  There are also articles and useful links.
     
   * __Numerical Linear Algebra and Applications__     
     _Biswa Nath Datta_
+    
+    
+    
+## More Advanced Background    
+    
+  * __Machine Learning: A Probabilistic Perspective__    
+    _Kevin Murphy_
 
 
 
-## Localization and Mapping
+## Application
 
   * __Probabilistic Robotics__   
     _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
