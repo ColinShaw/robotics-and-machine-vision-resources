@@ -38,6 +38,8 @@ field.  There are also articles and useful links.
   * [Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](http://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
   
   * [How a Kalman filter Works, In Pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+  
+  * [Gabriel Terejanu's Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
 
 
 
