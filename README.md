@@ -31,6 +31,7 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Toward Geometric Deep SLAM](https://arxiv.org/pdf/1707.07410.pdf)
 
 
 ## Online Learning Resources
