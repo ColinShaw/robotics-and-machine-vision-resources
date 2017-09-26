@@ -31,6 +31,10 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://arxiv.org/pdf/1509.06825.pdf)
+  
+  * [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199.pdf)
+  
   * [Trajectory Optimization using Reinforcement Learning for Map Exploration](http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.pdf)
 
   * [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051.pdf)
