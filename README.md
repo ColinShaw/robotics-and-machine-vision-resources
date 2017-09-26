@@ -31,6 +31,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Trajectory Optimization using Reinforcement Learning for Map Exploration](http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.pdf)
+
   * [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051.pdf)
 
   * [Toward Geometric Deep SLAM](https://arxiv.org/pdf/1707.07410.pdf)
