@@ -39,6 +39,10 @@ field.  There are also articles and useful links.
   
   * [Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not](https://arxiv.org/pdf/1612.07139.pdf)
   
+  * [3D Simulation for Robot Arm Control with Deep Q-Learning](https://arxiv.org/pdf/1609.03759.pdf)
+
+  * [End-to-End Training of Deep Visuomotor Policies](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf)
+  
   * [Trajectory Optimization using Reinforcement Learning for Map Exploration](http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.pdf)
 
   * [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051.pdf)
