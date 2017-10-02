@@ -43,6 +43,8 @@ field.  There are also articles and useful links.
 
   * [End-to-End Training of Deep Visuomotor Policies](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf)
   
+  * [Deep learning for detecting robotic grasps](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
+ 
   * [Trajectory Optimization using Reinforcement Learning for Map Exploration](http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.pdf)
 
   * [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051.pdf)
