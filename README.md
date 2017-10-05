@@ -54,6 +54,8 @@ field.  There are also articles and useful links.
 
 ## Online Learning Resources
 
+  * [Introduction to Robot Geometry and Kinematics](http://www.seas.upenn.edu/~meam520/notes02/IntroRobotKinematics5.pdf)
+
   * [Stereo DSO: Large-Scale Direct Sparse Visual Odometry with Stereo Cameras](https://vision.in.tum.de/_media/spezial/bib/wang2017stereodso.pdf)
 
   * [Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](http://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
