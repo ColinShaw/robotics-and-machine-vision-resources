@@ -31,6 +31,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Deep 6-DOF Tracking](https://arxiv.org/pdf/1703.09771.pdf)
+
   * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://arxiv.org/pdf/1509.06825.pdf)
   
   * [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199.pdf)
