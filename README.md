@@ -31,6 +31,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/pdf/1709.06841.pdf)
+
   * [Deep 6-DOF Tracking](https://arxiv.org/pdf/1703.09771.pdf)
 
   * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://arxiv.org/pdf/1509.06825.pdf)
