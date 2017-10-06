@@ -72,5 +72,7 @@ field.  There are also articles and useful links.
 
 ## Interesting Online Projects and Tools
 
+  * [KINOVA-ROS](https://github.com/Kinovarobotics/kinova-ros)
+
   * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
