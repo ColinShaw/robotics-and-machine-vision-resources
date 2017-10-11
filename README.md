@@ -26,6 +26,9 @@ field.  There are also articles and useful links.
 
   * __Probabilistic Robotics__   
     _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
+    
+  * __Theory of Applied Robotics: Kinematics, Dynamics and Control__  
+    _Reza Jazar_
 
 
 
