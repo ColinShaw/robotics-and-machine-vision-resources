@@ -18,7 +18,10 @@ field.  There are also articles and useful links.
 ## More Advanced Background    
     
   * __Machine Learning: A Probabilistic Perspective__    
-    _Kevin Murphy_
+    _Kevin Murphy_  
+    
+  * __Neural Network Control of Robot Manipulators and Nonlinear Systems__  
+    _F. L. Lewis, A. Yesildirak and Suresh Jagannathan_  
 
 
 
