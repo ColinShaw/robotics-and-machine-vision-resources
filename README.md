@@ -32,6 +32,9 @@ field.  There are also articles and useful links.
     
   * __Theory of Applied Robotics: Kinematics, Dynamics and Control__  
     _Reza Jazar_
+    
+  * __Introduction to Robotics: Mechanics and Control__  
+    _John J. Craig_  
 
 
 
