@@ -40,6 +40,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf)
+
   * [Visual Servoing from Deep Neural Networks](https://arxiv.org/pdf/1705.08940.pdf)
 
   * [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/pdf/1709.06841.pdf)
