@@ -25,7 +25,7 @@ field.  There are also articles and useful links.
 
 
 
-## Application
+## Application and Robotics Specific Texts
 
   * __Probabilistic Robotics__   
     _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
@@ -35,6 +35,9 @@ field.  There are also articles and useful links.
     
   * __Introduction to Robotics: Mechanics and Control__  
     _John J. Craig_  
+    
+  * __Modern Robotics: Mechanics, Planning, and Control__  
+    _Kevin M. Lynch and Frank C. Park_  
 
 
 
