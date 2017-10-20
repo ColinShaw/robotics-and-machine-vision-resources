@@ -43,6 +43,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [A Neural Network-Based Approach for Trajectory Planning in Robot–Human Handover Tasks](https://www.frontiersin.org/articles/10.3389/frobt.2016.00034/full) 
+  
   * [SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf)
 
   * [Visual Servoing from Deep Neural Networks](https://arxiv.org/pdf/1705.08940.pdf)
