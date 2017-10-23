@@ -43,6 +43,10 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf)
+
+  * [High-Dimensional Inverse Kinematics and Self-Reconfiguration Kinematic Control](https://pdfs.semanticscholar.org/0783/c96aa798d9e02b906631abd7d8620ceec8be.pdf)
+  
   * [Learning real manipulation tasks from virtual demonstrations using LSTM](https://arxiv.org/pdf/1603.03833.pdf)
 
   * [A Neural Network-Based Approach for Trajectory Planning in Robot–Human Handover Tasks](https://www.frontiersin.org/articles/10.3389/frobt.2016.00034/full) 
