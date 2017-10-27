@@ -43,6 +43,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Multi-Task Policy Search for Robotics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.205&rep=rep1&type=pdf)
+
   * [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf)
 
   * [High-Dimensional Inverse Kinematics and Self-Reconfiguration Kinematic Control](https://pdfs.semanticscholar.org/0783/c96aa798d9e02b906631abd7d8620ceec8be.pdf)
