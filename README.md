@@ -43,6 +43,10 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Hands Deep in Deep Learning for Hand Pose Estimation](https://arxiv.org/pdf/1502.06807.pdf)
+  
+  * [Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis](https://arxiv.org/pdf/1707.05363.pdf)
+
   * [Multi-Task Policy Search for Robotics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.205&rep=rep1&type=pdf)
 
   * [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf)
