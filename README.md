@@ -43,6 +43,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [A study of neural network based inverse kinematics solution for a three-joint robot](https://pdfs.semanticscholar.org/9062/8e6b996060cebfa2f1d3c02326e538aa913f.pdf)
+
   * [Hands Deep in Deep Learning for Hand Pose Estimation](https://arxiv.org/pdf/1502.06807.pdf)
   
   * [Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis](https://arxiv.org/pdf/1707.05363.pdf)
