@@ -43,6 +43,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [A New Artificial Neural Network Approach in Solving Inverse Kinematics of Robotic Arm (Denso VP6242)](http://downloads.hindawi.com/journals/cin/2016/5720163.pdf)
+
   * [A study of neural network based inverse kinematics solution for a three-joint robot](https://pdfs.semanticscholar.org/9062/8e6b996060cebfa2f1d3c02326e538aa913f.pdf)
 
   * [Hands Deep in Deep Learning for Hand Pose Estimation](https://arxiv.org/pdf/1502.06807.pdf)
