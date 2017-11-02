@@ -114,6 +114,8 @@ field.  There are also articles and useful links.
 
 ## Interesting Online Projects and Tools
 
+  * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
+
   * [KINOVA-ROS](https://github.com/Kinovarobotics/kinova-ros)
 
   * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
