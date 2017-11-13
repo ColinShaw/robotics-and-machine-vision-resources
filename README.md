@@ -120,3 +120,19 @@ field.  There are also articles and useful links.
 
   * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
+
+
+## Frameworks, Libraries and Tools
+
+  * [Robotics Library](https://www.roboticslibrary.org/)
+  
+  * [The Orocos Project](http://www.orocos.org/)
+  
+  * [ROS](http://www.ros.org/)
+  
+  * [OpenRave](http://openrave.org/)
+  
+  * [ROS Moveit!](http://moveit.ros.org/)
+
+  * [Gazebo](http://gazebosim.org/)
+  
