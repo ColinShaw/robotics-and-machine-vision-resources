@@ -43,6 +43,10 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Direct kinematics solution of 3-RRR robot by using two different artificial neural networks](http://ieeexplore.ieee.org/document/7367852/)
+
+  * [Deep Kernels for Optimizing Locomotion Controllers](http://proceedings.mlr.press/v78/antonova17a/antonova17a.pdf)
+
   * [Approximation of the Inverse Kinematics of a Robotic Manipulator Using a Neural Network](http://www.ros.hw.ac.uk/bitstream/handle/10399/2265/DinhBH_0709_eps.pdf?sequence=1)
 
   * [Artificial Neural Network Based Forward Kinematics Solution for Planar Parallel Manipulators Passing through Singular Configuration](https://www.omicsonline.org/open-access/artificial-neural-network-based-forward-kinematics-solution-for-planar-parallel-manipulators-passing-through-singular-configuration-2168-9695.1000106.pdf)
@@ -117,6 +121,8 @@ field.  There are also articles and useful links.
 
 
 ## Interesting Online Projects and Tools
+
+  * [Microsoft AirSim](https://github.com/Microsoft/AirSim)
 
   * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
 
