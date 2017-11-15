@@ -43,6 +43,10 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Approximation of the Inverse Kinematics of a Robotic Manipulator Using a Neural Network](http://www.ros.hw.ac.uk/bitstream/handle/10399/2265/DinhBH_0709_eps.pdf?sequence=1)
+
+  * [Artificial Neural Network Based Forward Kinematics Solution for Planar Parallel Manipulators Passing through Singular Configuration](https://www.omicsonline.org/open-access/artificial-neural-network-based-forward-kinematics-solution-for-planar-parallel-manipulators-passing-through-singular-configuration-2168-9695.1000106.pdf)
+
   * [A New Artificial Neural Network Approach in Solving Inverse Kinematics of Robotic Arm (Denso VP6242)](http://downloads.hindawi.com/journals/cin/2016/5720163.pdf)
 
   * [A study of neural network based inverse kinematics solution for a three-joint robot](https://pdfs.semanticscholar.org/9062/8e6b996060cebfa2f1d3c02326e538aa913f.pdf)
