@@ -36,6 +36,9 @@ field.  There are also articles and useful links.
   * __Introduction to Robotics: Mechanics and Control__  
     _John J. Craig_  
     
+  * __Robot Manipulators: Mathematics, Programming and Control__  
+    _ Richard Paul_  
+    
   * __Modern Robotics: Mechanics, Planning, and Control__  
     _Kevin M. Lynch and Frank C. Park_  
 
