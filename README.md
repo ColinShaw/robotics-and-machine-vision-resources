@@ -37,7 +37,7 @@ field.  There are also articles and useful links.
     _John J. Craig_  
     
   * __Robot Manipulators: Mathematics, Programming and Control__  
-    _ Richard Paul_  
+    _Richard Paul_  
     
   * __Modern Robotics: Mechanics, Planning, and Control__  
     _Kevin M. Lynch and Frank C. Park_  
