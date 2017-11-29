@@ -46,6 +46,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Singular Configurations of Wrist-Partitioned 6R Serial Robots: a Geometric Perspective for Users](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.1735&rep=rep1&type=pdf)
+
   * [Direct kinematics solution of 3-RRR robot by using two different artificial neural networks](http://ieeexplore.ieee.org/document/7367852/)
 
   * [Deep Kernels for Optimizing Locomotion Controllers](http://proceedings.mlr.press/v78/antonova17a/antonova17a.pdf)
