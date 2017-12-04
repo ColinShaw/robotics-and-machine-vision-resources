@@ -141,6 +141,12 @@ field.  There are also articles and useful links.
 
 
 
+## Useful Actuator and Sensor Tools
+
+  * [PiBits](https://github.com/richardghirst/PiBits)
+  
+  
+  
 ## Frameworks, Libraries and Tools
 
   * [Robotics Library](https://www.roboticslibrary.org/)
