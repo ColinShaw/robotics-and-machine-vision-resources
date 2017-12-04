@@ -111,6 +111,8 @@ field.  There are also articles and useful links.
 
 ## Online Learning Resources
 
+  * [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](http://www.cvlibs.net/projects/autonomous_vision_survey/)
+
   * [MANIPULABILITY ELLIPSOIDS IN ROBOTICS](https://engineerjau.wordpress.com/2013/05/04/advanced-robotics-manipulability-ellipsoids/)
 
   * [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials/)
