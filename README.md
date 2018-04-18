@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Gaze and the Control of Foot Placement When Walking in Natural Terrain](http://www.cell.com/current-biology/fulltext/S0960-9822(18)30309-9)
+
   * [Monte Carlo Localization for Mobile Robots](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Dellaert1999ICRA.pdf)
 
   * [Singularity avoidance of a six degree of freedom three dimensional redundant planar manipulator](http://www.sciencedirect.com/science/article/pii/S0898122111011448)
