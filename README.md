@@ -142,6 +142,8 @@ field.  There are also articles and useful links.
 
 ## Interesting Online Projects and Tools
 
+  * [Developing Longitudinal Controls for a Self-Driving Taxi](https://www.mathworks.com/company/newsletters/articles/developing-longitudinal-controls-for-a-self-driving-taxi.html)
+
   * [Microsoft AirSim](https://github.com/Microsoft/AirSim)
 
   * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
