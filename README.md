@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/pdf/1804.10332.pdf)
+
   * [Elastic Bands: Connecting Path Planning and Control](https://personalrobotics.ri.cmu.edu/files/courses/papers/QuinlanElasticBands.pdf)
 
   * [Gaze and the Control of Foot Placement When Walking in Natural Terrain](http://www.cell.com/current-biology/fulltext/S0960-9822(18)30309-9)
