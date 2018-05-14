@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Probabilistic Prediction of Vehicle Semantic Intention and Motion](https://arxiv.org/pdf/1804.03629.pdf)
+
   * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/pdf/1804.10332.pdf)
 
   * [Elastic Bands: Connecting Path Planning and Control](https://personalrobotics.ri.cmu.edu/files/courses/papers/QuinlanElasticBands.pdf)
