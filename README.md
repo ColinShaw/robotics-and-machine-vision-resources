@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://arxiv.org/pdf/1807.07049.pdf)
+
   * [Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf)
 
   * [Probabilistic Prediction of Vehicle Semantic Intention and Motion](https://arxiv.org/pdf/1804.03629.pdf)
