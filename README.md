@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [An Auto-tuning Framework for Autonomous Vehicles](https://arxiv.org/pdf/1808.04913.pdf)
+
   * [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://arxiv.org/pdf/1808.03247.pdf)
 
   * [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://arxiv.org/pdf/1807.07049.pdf)
