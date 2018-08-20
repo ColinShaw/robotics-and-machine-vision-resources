@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://arxiv.org/pdf/1808.03247.pdf)
+
   * [Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias](https://arxiv.org/pdf/1807.07049.pdf)
 
   * [Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf)
