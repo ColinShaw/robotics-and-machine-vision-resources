@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Zero-Shot Skill Composition and Simulation-to-Real Transfer by Learning Task Representations](https://arxiv.org/pdf/1810.02422.pdf)
+
   * [robot gym: accelerated robot training through simulation in the cloud with ROS and Gazebo](https://arxiv.org/pdf/1808.10369.pdf)
 
   * [An Auto-tuning Framework for Autonomous Vehicles](https://arxiv.org/pdf/1808.04913.pdf)
