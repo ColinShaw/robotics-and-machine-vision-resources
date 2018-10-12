@@ -134,6 +134,8 @@ field.  There are also articles and useful links.
 
 ## Online Learning Resources
 
+  * [32-Legged Spherical Robot Moves Like an Amoeba](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/32-legged-spherical-robot-moves-like-an-amoeba)
+
   * [The open online robotics education resource](https://robotacademy.net.au)
 
   * [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](http://www.cvlibs.net/projects/autonomous_vision_survey/)
