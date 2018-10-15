@@ -134,6 +134,8 @@ field.  There are also articles and useful links.
 
 ## Online Learning Resources
 
+   * [Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)
+
   * [32-Legged Spherical Robot Moves Like an Amoeba](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/32-legged-spherical-robot-moves-like-an-amoeba)
 
   * [The open online robotics education resource](https://robotacademy.net.au)
