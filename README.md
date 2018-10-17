@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning](https://arxiv.org/pdf/1810.05762.pdf)
+
   * [Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions](https://arxiv.org/pdf/1710.04459.pdf)
 
   * [Zero-Shot Skill Composition and Simulation-to-Real Transfer by Learning Task Representations](https://arxiv.org/pdf/1810.02422.pdf)
