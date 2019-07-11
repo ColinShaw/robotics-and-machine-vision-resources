@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Sensor-Actuator Networks](https://www.cs.ubc.ca/~van/papers/1993-siggraph-sans.pdf)
+
   * [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
 
   * [GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning](https://arxiv.org/pdf/1810.05762.pdf)
