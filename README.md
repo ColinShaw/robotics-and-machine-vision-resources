@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation](https://arxiv.org/pdf/1910.09470.pdf)
+
   * [Deep Dynamics Models for Learning Dexterous Manipulation](https://arxiv.org/pdf/1909.11652.pdf)
 
   * [Sensor-Actuator Networks](https://www.cs.ubc.ca/~van/papers/1993-siggraph-sans.pdf)
