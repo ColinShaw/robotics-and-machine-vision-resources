@@ -49,6 +49,8 @@ field.  There are also articles and useful links.
 
 ## Interesting and Relevant Articles
 
+  * [Redesigning SLAM for Arbitrary Multi-Camera Systems](http://rpg.ifi.uzh.ch/docs/ICRA20_Kuo.pdf)
+
   * [Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation](https://arxiv.org/pdf/1910.09470.pdf)
 
   * [Deep Dynamics Models for Learning Dexterous Manipulation](https://arxiv.org/pdf/1909.11652.pdf)
